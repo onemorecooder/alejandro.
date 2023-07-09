@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "title": "Studies",
+    "intro": "Aquí encuentras mis títulos",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae doloremque illo perferendis aliquam rerum. Nostrum voluptatibus ex quisquam fugiat ipsam nulla incidunt ipsum asperiores unde, illo distinctio doloribus quos perferendis.",
+    "item1": "stucom",
+    "item2": "honours"
+  },
+  {
+    "id": "2",
+    "title": "Experience",
+    "intro": "Aquí encuentras mi experiencia",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae doloremque illo perferendis aliquam rerum. Nostrum voluptatibus ex quisquam fugiat ipsam nulla incidunt ipsum asperiores unde, illo distinctio doloribus quos perferendis.",
+    "item1": "nttdata",
+    "item2": "tesipro"
+  },
+  {
+    "id": "3",
+    "title": "Stack",
+    "intro": "Aquí encuentras las tecnologías que utilizo",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae doloremque illo perferendis aliquam rerum. Nostrum voluptatibus ex quisquam fugiat ipsam nulla incidunt ipsum asperiores unde, illo distinctio doloribus quos perferendis.",
+    "item1": "react",
+    "item2": "angular"
+  },
+  {
+    "id": "4",
+    "title": "Projects",
+    "intro": "Aquí encuentras algunos de mis proyectos",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae doloremque illo perferendis aliquam rerum. Nostrum voluptatibus ex quisquam fugiat ipsam nulla incidunt ipsum asperiores unde, illo distinctio doloribus quos perferendis.",
+    "item1": "Retro",
+    "item2": "Shop"
+  }
+]
