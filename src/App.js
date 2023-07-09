@@ -5,10 +5,13 @@ import Form from './components/Form/Form';
 import MyGlobe from './components/Form/Globe';
 import Navbar from './components/Navbar/Navbar';
 import Skills from './components/Skills/Skills';
+import ThemeProvider from './components/ThemeProvider';
 
 function App() {
   return (
-    <div className="bg-black h-full">
+
+    <ThemeProvider>
+    <div className="bg-background text-font h-full transition-colors duration-500">
       <Navbar />
       <MainBanner />
       <Skills />
@@ -16,6 +19,7 @@ function App() {
       <Form />
       <MyGlobe />
     </div>
+    </ThemeProvider>
   );
 }
 

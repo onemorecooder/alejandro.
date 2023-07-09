@@ -15,3 +15,19 @@ body {
   z-index: -1;
   object-fit: cover;
 }
+
+:root{
+  --primary:purple ;
+  --secondary:blue;
+  --background: rgb(25, 25, 25);
+  --background-200:rgb(49, 49, 49);
+  --font:white;
+  --font-100:rgb(190, 190, 190);
+}
+
+.light-theme{
+  --background: rgb(236, 236, 236);
+  --background-200:rgb(201, 201, 201);
+  --font:rgb(31, 31, 31);
+  --font-100:rgb(26, 26, 26);
+}
